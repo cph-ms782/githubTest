@@ -19,7 +19,7 @@ public class GithubTest {
         {
             System.out.println("Dette er en merge-konflikt!!");
         }
-
+        System.out.println("");
     }
 
 }
