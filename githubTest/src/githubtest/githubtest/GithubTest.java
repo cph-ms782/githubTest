@@ -17,7 +17,7 @@ public class GithubTest {
     public static void main(String[] args) {
         for (int i = 0; i < 100; i++)
         {
-            System.out.println("Dette er en merge-konflikt!!");
+            System.out.println("Nu laver jeg den egentlige merge-konflikt!! !11!");
         }
         /*
  * To change this license header, choose License Headers in Project Properties.
